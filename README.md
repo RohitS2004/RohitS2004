@@ -9,17 +9,11 @@
 
 ### 👨‍💻 About Me:
 - 🏫 **Computer Science Student** at Lovely Professional University  
-- 🧑‍💻 Building innovative projects like **Blog Monkey** and **LPU-DAILY**  
+- 🧑‍💻 Building innovative projects like **Verto** and **Tiles**  
 - 🔭 Currently creating an **Assignment Tracker** with PHP & MySQL  
 - 🌱 Learning advanced React and WebSockets  
 - 💡 Always striving for **Clean Code** and **Scalable Systems**  
 
----
-
-### 🔗 Connect with Me:
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%2300FA9A.svg?style=for-the-badge&logo=website&logoColor=white)](https://github.com/RohitS2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitkumar-saini)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 ---
 
